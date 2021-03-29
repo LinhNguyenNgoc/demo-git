@@ -1,2 +1,3 @@
 content file 2 change content 2 from server
 update from local
+update lan 3 server
